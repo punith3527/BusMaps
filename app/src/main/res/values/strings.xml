@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bus Maps</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="google_maps_key">AIzaSyAtrfs_lzcQMX0fRUUjkwsGk5fx3WXeZvw</string>
+</resources>
